@@ -70,7 +70,7 @@
 
 <br/>
 
-### 🔝 Top Contributed Repo
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=akm-engineer&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
