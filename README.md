@@ -71,10 +71,18 @@
 <br/>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
+<br>
 
 <div align=center>
     <img src="https://github-contributor-stats.vercel.app/api?username=akm-engineer&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
+
+<br>
+<hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+me+a+message+on+LinkedIn;+Thanks+for+Visting!!!;" />
+</h1>
+<hr/>
 
 
 
