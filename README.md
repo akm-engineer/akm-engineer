@@ -61,9 +61,9 @@
 <br>
 
 <div align=center>
-<img  src="https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akm-engineer&theme=jolly&hide_border=false"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true">
+<img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=akm-engineer&theme=jolly&hide_border=false"> 
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akm-engineer&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
 </div>
 
 
