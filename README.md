@@ -65,9 +65,6 @@
 </div>
 
 <br/><br/>
-
-
-
 <br/>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
